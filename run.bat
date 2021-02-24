@@ -1,0 +1,1 @@
+cmd \k "env\Scripts\activate.bat&&python get_data.py"
